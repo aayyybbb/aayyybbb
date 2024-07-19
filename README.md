@@ -1,7 +1,7 @@
 
 <div align="center">
    
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seungchan%20Baek&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YOONBIN%20AN&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 
 
