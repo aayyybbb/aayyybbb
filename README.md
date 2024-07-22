@@ -55,5 +55,5 @@
 <br/>
     
 
-[![YOONBIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=anyoonbin&count_private=true&show_icons=true&theme=radical)]
+![YOONBIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=anyoonbin&count_private=true&show_icons=true&theme=radical)
    
