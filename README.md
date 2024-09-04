@@ -54,5 +54,5 @@
 
 <br/>
     
-[![YOONBIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayyybbb&include_all_commits=true&show_icons=true&theme=cobalt)]
+![YOONBIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayyybbb&include_all_commits=true&show_icons=true&theme=cobalt)
    
